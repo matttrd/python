@@ -120,5 +120,5 @@ else:
 
 Cosa printa?
 
-[Previous](using-functions.md) | [Next](handy-stuff-strings.md) |
+[Previous](using-functions.md) | [Next](strings.md) |
 [List of contents](../README.md#basics)
