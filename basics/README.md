@@ -20,5 +20,3 @@ Le basi di Python
 14. [File](files.md)
 15. [Moduli](modules.md)
 ***
-
-[List of contents](../README.md#list-of-contents)
