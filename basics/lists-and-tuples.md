@@ -198,5 +198,5 @@ AttributeError: 'tuple' object has no attribute 'append'
 >>>
 ```
 
-[Previous](handy-stuff-strings.md) | [Next](loops.md) |
+[Previous](strings.md) | [Next](loops.md) |
 [List of contents](../README.md#basics)

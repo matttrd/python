@@ -153,5 +153,5 @@ Basta usare una copia:
 >>>
 ```
 
-[Previous](lists-and-tuples.md) | [Next](trey-hunner-zip-and-enumerate.md) |
+[Previous](lists-and-tuples.md) | [Next](zip-and-enumerate.md) |
 [List of contents](../README.md#basics)

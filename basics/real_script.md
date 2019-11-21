@@ -14,5 +14,5 @@ if __name__ == '__main__':
     main()
 ```
 
-[Previous](defining-functions.md) | [Next](files.md) |
+[Previous](functions.md) | [Next](files.md) |
 [List of contents](../README.md#basics)

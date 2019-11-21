@@ -90,5 +90,5 @@ Leggere tutto il contenuto:
 >>>
 ```
 
-[Previous](what-is-true.md) | [Next](modules.md) |
+[Previous](real_script.md) | [Next](modules.md) |
 [List of contents](../README.md#basics)

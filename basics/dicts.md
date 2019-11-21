@@ -125,5 +125,5 @@ I valori possono esser qualsiasi cosa:
 ```
 
 
-[Previous](trey-hunner-zip-and-enumerate.md) | [Next](defining-functions.md) |
+[Previous](zip-and-enumerate.md) | [Next](functions.md) |
 [List of contents](../README.md#basics)

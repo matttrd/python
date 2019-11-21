@@ -69,5 +69,5 @@ intro(Firstname="Sita", Lastname="Sharma", Age=22, Phone=1234567890)
 intro(Firstname="John", Lastname="Wood", Email="johnwood@nomail.com", Country="Wakanda", Age=25, Phone=9876543210)
 ```
 
-[Previous](dicts.md) | [Next](larger-program.md) |
+[Previous](functions.md) | [Next](real_script.md) |
 [List of contents](../README.md#basics)
